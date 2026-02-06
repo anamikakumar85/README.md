@@ -14,7 +14,7 @@ Scalable APIs, clean backend code, end-to-end features for production systems
 [![Laravel API](https://github-readme-stats.vercel.app/api/pin/?username=anamikakumar85&repo=laravel-api&theme=radical)](https://github.com/anamikakumar85/laravel-api)
 
 ## About Me
-Junior PHP / Laravel developer based in Germany,
+ PHP / Laravel developer based in Stuttgart, Germany.
 
 
 💼 **Open for  PHP Developer roles**
