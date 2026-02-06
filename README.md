@@ -1,7 +1,7 @@
 # Hi 👋 I'm Anamika - PHP/Laravel Developer
 This repository contains practice projects created whil learning PHP and Laravel.
 
-**Backend Specialist** | Stuttgart, Germany | [anamika-kumar@gmx.de](mailto:anamika-kumar@gmx.de)
+**PHP Developer ** | Stuttgart, Germany | [anamika-kumar@gmx.de](mailto:anamika-kumar@gmx.de)
 
 ![Laravel](https://img.shields.io/badge/Laravel-11-orange?style=flat&logo=laravel)
 ![PHP](https://img.shields.io/badge/PHP-8.2-green?style=flat&logo=php)
